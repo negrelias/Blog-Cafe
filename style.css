@@ -1,0 +1,260 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    @font-face {
+        font-family:"fontselias";
+        src: url("../fonts/Gemundo.ttf");
+    }
+
+    
+}
+.imagem{
+    width:100%;
+    height:290px;
+    background:url(./cafe-1.jpeg);
+    opacity:0.8;
+}
+
+
+
+.text h1{
+    font-size:150px;
+    font-family: fontselias;
+    font-weight: bold;
+    text-align:center;
+    color: rgba(255, 132, 0, 0.557);
+    padding-top: 95px;
+    
+
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    padding-top:0px;
+  }
+
+  .nav ul {
+    background:#a38068;
+    display: flex;
+    list-style: none;
+    width: 100%;
+    font-size:30px;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family:fontselias;
+    
+    
+}
+
+nav a {
+    color: rgb(48, 47, 47);
+    text-decoration: none;
+    
+    
+    
+}
+
+/*===========main==========*/
+
+.coontainer{
+    padding-bottom: 50px;
+}
+/*===========cefe historia==========*/
+.cafe h1{
+    padding-bottom:40px;
+    font-size:50px;
+    font-family: fontselias;
+    font-weight: bold;
+    text-align:center;
+    color: rgba(255, 132, 0, 0.557);
+    padding-top: 95px;
+}
+
+
+
+.cafe figcaption{
+    background-color:#a38068;
+    width:55.6%;
+    margin-left:320px;
+}
+
+.cafe p{
+    text-align: center;
+    margin:20px;
+    font-family:fontselias;
+    line-height:1.3;
+    letter-spacing:1px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom:20px;
+
+}
+
+.responsive{
+    display: block;
+    margin:auto;
+    padding: auto;
+    box-shadow: 2px 1px 2px;
+}
+
+h2{
+    color: #4d4037;
+    padding-bottom:20px;
+    margin: 20px;
+    text-align: center;
+}
+
+figcaption{
+    text-align: center;
+    font-family:fontselias;
+    padding:0%;
+    font-size:20px;
+    font-weight: bold;
+    
+    
+   
+}
+/*===========Brasil==========*/
+
+.brasil h1{
+    font-size:50px;
+    font-family: fontselias;
+    font-weight: bold;
+    text-align:center;
+    color: rgba(255, 132, 0, 0.557);
+    padding-top: 95px;
+}
+
+.brasil p{
+    text-align: center;
+    margin:20px;
+    font-family:fontselias;
+    line-height:1.3;
+    letter-spacing:1px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*===========GROES==========*/
+
+
+.sementes h1{
+    font-size:50px;
+    font-family: fontselias;
+    font-weight: bold;
+    text-align:center;
+    color: rgba(255, 132, 0, 0.557);
+    padding-top: 95px;
+}
+
+ .sementes li:first-child{
+    color:#3e2f20;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+    
+    font-family: fontselias;
+    
+}
+
+.sementes li:nth-child(2){
+    color: #2d1d0d;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: fontselias;
+
+
+}
+
+.sementes li:nth-child(3){
+    color: #352a06;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: fontselias;
+    
+
+
+
+}
+
+.sementes li:nth-child(4){
+    color: #1f1101;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: fontselias;
+
+}
+
+.sementes li:nth-child(5){
+    color: #6d5232;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: fontselias;
+
+}
+
+
+strong{
+    font-size: 25px;
+    font-family: fontselias;
+}
+
+
+/*===========regiao==========*/
+
+
+.regiao h1{
+    font-size:50px;
+    font-family: fontselias;
+    font-weight: bold;
+    text-align:center;
+    color: rgba(255, 132, 0, 0.557);
+    padding-top: 85px;
+
+}
+
+
+/*===========footer==========*/
+
+.imagen{
+    width:100%;
+    height:290px;
+    background:url(./coffee-beans-6603499__480.jpeg);
+    
+}
+
+ .texto p{
+     color: white;
+     text-align:center;
+     padding-top: 50px;
+     font-family: fontselias;
+     font-weight: bold;
+     font-size: 20px;
+ }
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
